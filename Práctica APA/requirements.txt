@@ -1,0 +1,6 @@
+skopt
+scikit_optimize
+pandas
+seaborn
+matplotlib
+numpy
